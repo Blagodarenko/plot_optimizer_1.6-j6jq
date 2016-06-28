@@ -1,0 +1,5 @@
+For Windows:
+http://sourceforge.net/projects/mingw-w64/files/
+
+Download from this line at the top of the page:
+"Looking for the latest version? Download mingw-w64-install.exe (169.9 kB) "

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1412547019 source:c:\users\david\downloads\dcct_miner\optimize2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"helper.h"
+	<windows.h>
+
+1411057564 c:\users\david\downloads\dcct_miner\helper.h
+
